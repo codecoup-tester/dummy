@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ARCHIVE>
   <VERSION>2.0</VERSION>
-  <PicsPixit>Test Case Started: GAP v. 11.0.3.2, GAP/CONN/ACEP/BV-01-C started on Friday, July 16, 2021, 15:45:50
+  <PicsPixit>Test Case Started: GAP v. 11.0.3.2, GAP/CONN/ACEP/BV-01-C started on Friday, July 16, 2021, 16:05:19
 
 ICS VALUES:
 
@@ -278,7 +278,7 @@ TSPC_ALL FALSE
 
 IXIT VALUES:
 
-TSPX_bd_addr_iut 547B6EB38BF3
+TSPX_bd_addr_iut 577665A9002E
 TSPX_bd_addr_PTS C000DEADBEEF
 TSPX_broadcaster_class_of_device 100104
 TSPX_observer_class_of_device 100104
@@ -353,7 +353,7 @@ Initialize Test Case:    Build date: May  5 2021, 16:48:25
 Send Event:              HCI!HCI_READ_LOCAL_SUPPORTED_FEATURES
 
 
-+16 ms
++0 ms
 Send Event:              HCI!HCI_RAW_CMD_REQ{
                            size=0x0016,
                            data=00FC13C200000900010003700000DA00010000000000
@@ -373,7 +373,7 @@ Start Test Case:         GAP/CONN/ACEP/BV-01-C
 
 
 +16 ms
-Message:                   PTS Log started on Friday, July 16, 2021, 15:45:53
+Message:                   PTS Log started on Friday, July 16, 2021, 16:05:22
 
 
 
@@ -430,25 +430,25 @@ Send Event:              HCI!HCI_SET_EVENT_MASK{
                          }
 
 
-+156 ms
++141 ms
 Send event:              :[6]HCI!HCI_SET_EVENT_MASK=PDU:{
                            eventMask:'3FFFFFFFFFFFFFFF'O
                          }
 
 
-+156 ms
++141 ms
 Receive event:           :[7]HCI?HCI_SET_EVENT_MASK_COMPLETE_EVENT=PDU:{
                            status:HCI_OK
                          }
 
 
-+156 ms
++141 ms
 Send Event:              HCI!HCI_LE_SET_EVENT_MASK{
                            leEventMask=0x000000000000001F
                          }
 
 
-+156 ms
++141 ms
 Send event:              :[8]HCI!HCI_LE_SET_EVENT_MASK=PDU:{
                            Event_Mask:'000000000000001F'O
                          }
@@ -470,7 +470,7 @@ Send event:              :[10]HCI!HCI_LE_READ_BUFFER_SIZE=PDU:{
                          }
 
 
-+172 ms
++156 ms
 Receive event:           :[11]HCI?HCI_LE_READ_BUFFER_SIZE_COMPLETE_EVENT=PDU:{
                            status:HCI_OK,
                            HC_LE_ACL_Data_Packet_Length:'0000'O,
@@ -478,112 +478,112 @@ Receive event:           :[11]HCI?HCI_LE_READ_BUFFER_SIZE_COMPLETE_EVENT=PDU:{
                          }
 
 
-+172 ms
++156 ms
 Send Event:              HCI!HCI_READ_BUFFER_SIZE
 
 
-+172 ms
++156 ms
 Send event:              :[12]HCI!HCI_READ_BUFFER_SIZE=PDU:{
                            
                          }
 
 
-+172 ms
++156 ms
 Receive event:           :[13]HCI?HCI_READ_BUFFER_SIZE_COMPLETE_EVENT=PDU:{
                            status:HCI_OK
                          }
 
 
-+172 ms
++156 ms
 Send Event:              HCI!HCI_LE_READ_LOCAL_SUPPORTED_FEATURES
 
 
-+172 ms
++156 ms
 Send event:              :[14]HCI!HCI_LE_READ_LOCAL_SUPPORTED_FEATURES=PDU:{
                            
                          }
 
 
-+172 ms
++156 ms
 Receive event:           :[15]HCI?HCI_LE_READ_LOCAL_SUPPORTED_FEATURES_COMPLETE_EVENT=PDU:{
                            status:HCI_OK
                          }
 
 
-+172 ms
++156 ms
 Send Event:              HCI!HCI_READ_BD_ADDR
 
 
-+172 ms
++156 ms
 Send event:              :[16]HCI!HCI_READ_BD_ADDR=PDU:{
                            
                          }
 
 
-+172 ms
++156 ms
 Receive event:           :[17]HCI?HCI_READ_BD_ADDR_COMPLETE_EVENT=PDU:{
                            status:HCI_OK,
                            bd_addr:'001BDC08E676'O
                          }
 
 
-+188 ms
++172 ms
 Send Event:              HCI!HCI_LE_CLEAR_FILTER_ACCEPT_LIST
 
 
-+188 ms
++172 ms
 Send event:              :[61]HCI!HCI_LE_CLEAR_FILTER_ACCEPT_LIST_COMMAND=PDU:{
                            
                          }
 
 
-+188 ms
++172 ms
 Receive event:           :[204]HCI?HCI_LE_CLEAR_FILTER_ACCEPT_LIST_COMPLETE_EVENT=PDU:{
                            status:HCI_OK
                          }
 
 
-+188 ms
++172 ms
 Verdict Description:     MTC: Successfully received HCI_LE_CLEAR_FILTER_ACCEPT_LIST_COMPLETE_EVENT.
 
 
 
-+188 ms
++172 ms
 Preliminary verdict:     : [1] (PASS)
 
 
 
-+188 ms
++172 ms
 Send Event:              HCI!HCI_LE_ADD_DEVICE_TO_FILTER_ACCEPT_LIST{
                            addressType=HCI_LE_RANDOM_DEVICE_ADDRESS,
-                           address=0x547B6EB38BF3
+                           address=0x577665A9002E
                          }
 
 
-+188 ms
++172 ms
 Send event:              :[64]HCI!HCI_LE_ADD_DEVICE_TO_FILTER_ACCEPT_LIST_COMMAND=PDU:{
                            Address_Type:'01'O,
-                           bd_addr:'547B6EB38BF3'O
+                           bd_addr:'577665A9002E'O
                          }
 
 
-+188 ms
++172 ms
 Receive event:           :[207]HCI?HCI_LE_ADD_DEVICE_TO_FILTER_ACCEPT_LIST_COMPLETE_EVENT=PDU:{
                            status:HCI_OK
                          }
 
 
-+188 ms
++172 ms
 Verdict Description:     MTC: Successfully received HCI_LE_ADD_DEVICE_TO_FILTER_ACCEPT_LIST_COMPLETE_EVENT.
 
 
 
-+188 ms
++172 ms
 Preliminary verdict:     : [1] (PASS)
 
 
 
-+188 ms
++172 ms
 Send event:              :[51]MMI!MMI_MSGBOX_REQ=PDU:{
                            caption:"{
                              82,
@@ -607,7 +607,7 @@ Send Event:              HCI!HCI_LE_SET_ADVERTISING_PARAMETERS{
                            advertisingType=HCI_LE_CONNECTABLE_DIRECTED_ADVERTISING,
                            ownAddressType=HCI_LE_PASSIVE_SCANNING,
                            directAddressType=HCI_LE_ACTIVE_SCANNING,
-                           directAddress=0x547B6EB38BF3,
+                           directAddress=0x577665A9002E,
                            advertisingChannelMap=0x07,
                            advertisingFilterPolicy=HCI_LE_ALLOW_REQ_SCAN_ANY_CONNECT_ANY
                          }
@@ -620,66 +620,66 @@ Send event:              :[31]HCI!HCI_LE_SET_ADVERTISING_PARAMETERS=PDU:{
                            AdvertisingType:'01'O,
                            OwnAddressType:'00'O,
                            DAType:'01'O,
-                           DirectAddress:'547B6EB38BF3'O,
+                           DirectAddress:'577665A9002E'O,
                            AdvertisingChannelMap:'07'O,
                            AdvertisingFilterPolicy:'00'O
                          }
 
 
-+203 ms
++188 ms
 Receive event:           :[177]HCI?HCI_LE_SET_ADVERTISING_PARAMETERS_COMPLETE_EVENT=PDU:{
                            status:HCI_OK
                          }
 
 
-+203 ms
++188 ms
 Verdict Description:     MTC: Successfully received HCI_LE_SET_ADVERTISING_PARAMETERS_COMPLETE_EVENT.
 
 
 
-+203 ms
++188 ms
 Preliminary verdict:     : [1] (PASS)
 
 
 
-+203 ms
++188 ms
 Send Event:              HCI!HCI_LE_SET_ADVERTISING_DATA{
                            advertisingDataLength=0x1B,
                            advertisingData=0x0201060503001801180D095054532D4741502D453637360319000000000000
                          }
 
 
-+203 ms
++188 ms
 Send event:              :[40]HCI!HCI_LE_SET_ADVERTISING_DATA=PDU:{
                            length:'1B'O,
                            data:'0201060503001801180D095054532D4741502D453637360319000000000000'O
                          }
 
 
-+203 ms
++188 ms
 Receive event:           :[183]HCI?HCI_LE_SET_ADVERTISING_DATA_COMPLETE_EVENT=PDU:{
                            status:HCI_OK
                          }
 
 
-+203 ms
++188 ms
 Verdict Description:     MTC: Successfully received HCI_LE_SET_ADVERTISING_DATA_COMPLETE_EVENT.
 
 
 
-+203 ms
++188 ms
 Preliminary verdict:     : [1] (PASS)
 
 
 
-+203 ms
++188 ms
 Send Event:              HCI!HCI_LE_SET_SCAN_RESPONSE_DATA{
                            scanResponseDataLength=0x00,
-                           scanResponseData=0x495F4C455F5345545F5343414E5F524553504F4E53455F444154415F630000
+                           scanResponseData=0x00000000000000000000000000000000000000000000000000000000000000
                          }
 
 
-+203 ms
++188 ms
 Send event:              :[46]HCI!HCI_LE_SET_SCAN_RESPONSE_DATA=PDU:{
                            length:'00'O,
                            data:'00'O
@@ -741,16 +741,16 @@ Send event:              :[51]MMI!MMI_MSGBOX_REQ=PDU:{
                          }
 
 
-+234 ms
++250 ms
 Receive event:           :[92]SEC_LE?SEC_LE_REMOTE_CSRK_REQUEST_IND=PDU:{
-                           peerAddr:'547B6EB38BF3'O,
+                           peerAddr:'577665A9002E'O,
                            peerAddrType:'01'O
                          }
 
 
-+234 ms
++250 ms
 Send Event:              SEC!SEC_LE_REMOTE_CSRK_REQUEST_RSP{
-                           peerAddr=0x547B6EB38BF3,
+                           peerAddr=0x577665A9002E,
                            peerAddrType=HCI_LE_RANDOM_DEVICE_ADDRESS,
                            accept=FALSE,
                            keyType=HCI_UNAUTHENTICATED_COMBINATION_KEY,
@@ -759,9 +759,9 @@ Send Event:              SEC!SEC_LE_REMOTE_CSRK_REQUEST_RSP{
                          }
 
 
-+234 ms
++250 ms
 Send event:              :[1]SEC_LE!SEC_LE_REMOTE_CSRK_REQUEST_RSP=PDU:{
-                           peerAddr:'547B6EB38BF3'O,
+                           peerAddr:'577665A9002E'O,
                            peerAddrType:'01'O,
                            accept:GcFALSE,
                            keyType:HCI_UNAUTHENTICATED_COMBINATION_KEY,
@@ -773,10 +773,10 @@ Send event:              :[1]SEC_LE!SEC_LE_REMOTE_CSRK_REQUEST_RSP=PDU:{
 +250 ms
 Receive event:           :[201]HCI?HCI_LE_CONNECTION_COMPLETE_EVENT=PDU:{
                            Status:HCI_OK,
-                           Handle:'0060'O,
+                           Handle:'0061'O,
                            Role:LE_HCI_ROLE_SERVER,
                            Peer_Address_Type:'01'O,
-                           Peer_Address:'547B6EB38BF3'O,
+                           Peer_Address:'577665A9002E'O,
                            Conn_Interval:'2800'O,
                            Conn_Latency:'0000'O,
                            Supervision_Timeout:'9001'O,
@@ -784,17 +784,17 @@ Receive event:           :[201]HCI?HCI_LE_CONNECTION_COMPLETE_EVENT=PDU:{
                          }
 
 
-+281 ms
++297 ms
 Verdict Description:     MTC: Successfully received HCI_LE_CONNECTION_COMPLETE_EVENT.
 
 
 
-+281 ms
++297 ms
 Preliminary verdict:     : [1] (PASS)
 
 
 
-+281 ms
++297 ms
 Send event:              :[51]MMI!MMI_MSGBOX_REQ=PDU:{
                            caption:"{
                              77,
@@ -805,7 +805,7 @@ Send event:              :[51]MMI!MMI_MSGBOX_REQ=PDU:{
                          }
 
 
-+281 ms
++297 ms
 Receive event:           :[16]MMI?MMI_MSGBOX_RSP=PDU:{
                            status:MMI_OK
                          }
@@ -814,62 +814,62 @@ Receive event:           :[16]MMI?MMI_MSGBOX_RSP=PDU:{
 +344 ms
 Receive event:           :[171]HCI?HCI_DISCONNECTION_COMPLETE_EVENT=PDU:{
                            status:HCI_OK,
-                           handle:'0060'O,
+                           handle:'0061'O,
                            reason:HCI_OTHER_END_TERMINATED_USER_ENDED_CONNECTION
                          }
 
 
-+375 ms
++438 ms
 Verdict Description:     MTC: Successfully received HCI_DISCONNECTION_COMPLETE_EVENT.
 
 
 
-+375 ms
++438 ms
 Preliminary verdict:     : [1] (PASS)
 
 
 
-+375 ms
++453 ms
 Verdict Description:     CM_EXIT
 
 
 
-+375 ms
++453 ms
 Verdict Description:     CM_EXIT
 
 
 
-+375 ms
++453 ms
 Verdict Description:     CM_EXIT
 
 
 
-+375 ms
++453 ms
 Verdict Description:     CM_EXIT
 
 
 
-+375 ms
++453 ms
 Verdict Description:     MTC: Test case ended
 
 
 
-+375 ms
++453 ms
 Preliminary verdict:     : [11] (PASS)
 
 
 
-+391 ms
++469 ms
 Final verdict:           : [12] PASS
 
 
 
-+391 ms
-Encrypted Verdict:       A1#ZWY4MzQ5MDg3MmQwNTIxOGQzMzQ5YjY2ODA5M2MzNjQ5ZDY4NmY0Yjc2MzIzM2VkNTUyNTFhNGU4Mjg1MjI0NA==#o9lsYqbgQYRGLAfQRCZFQapyuoRvz8FVPgblFZlk8UlK/QR0y1KkzjCl/bUxGbtj
++469 ms
+Encrypted Verdict:       A1#NWQxYTAxZTA2ODZlMzQ4OTEwM2Q4NDgwNzU1NmFmYjQ4NDNjMzQwYzNhOTIzODZkYjVhYjA2YmNkNmQwMzRkMA==#q5I5JJjH7GzriHMc1a6qezRvoOHLn+Jh7HwQPi4o01cB9vTRhNxWCiumERFr5E4K
 
 
 
-+391 ms
++469 ms
 Test Case ended:         GAP/CONN/ACEP/BV-01-C
 
 </LOG>
