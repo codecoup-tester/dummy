@@ -1,0 +1,6095 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ARCHIVE>
+  <VERSION>2.0</VERSION>
+  <PicsPixit>Test Case Started: GAP v. 11.0.3.2, GAP/DISC/LIMM/BV-04-C started on Tuesday, August 31, 2021, 11:28:52
+
+ICS VALUES:
+
+TSPC_GAP_0_1 FALSE
+TSPC_GAP_0_2 TRUE
+TSPC_GAP_0_3 FALSE
+TSPC_GAP_1_1 FALSE
+TSPC_GAP_1_2 FALSE
+TSPC_GAP_1_3 FALSE
+TSPC_GAP_1_4 FALSE
+TSPC_GAP_1_5 FALSE
+TSPC_GAP_1_6 FALSE
+TSPC_GAP_1_7 FALSE
+TSPC_GAP_1_8 FALSE
+TSPC_GAP_1_9 FALSE
+TSPC_GAP_2_1 FALSE
+TSPC_GAP_2_2 FALSE
+TSPC_GAP_2_3 FALSE
+TSPC_GAP_2_4 FALSE
+TSPC_GAP_2_5 FALSE
+TSPC_GAP_2_6 FALSE
+TSPC_GAP_2_7 FALSE
+TSPC_GAP_2_7a FALSE
+TSPC_GAP_2_7b FALSE
+TSPC_GAP_2_7c FALSE
+TSPC_GAP_2_7d FALSE
+TSPC_GAP_2_8 FALSE
+TSPC_GAP_2_9 FALSE
+TSPC_GAP_2_10 FALSE
+TSPC_GAP_2_11 FALSE
+TSPC_GAP_2_12 FALSE
+TSPC_GAP_2_13 FALSE
+TSPC_GAP_3_1 FALSE
+TSPC_GAP_3_2 FALSE
+TSPC_GAP_3_3 FALSE
+TSPC_GAP_3_4 FALSE
+TSPC_GAP_3_5 FALSE
+TSPC_GAP_3_6 FALSE
+TSPC_GAP_4_1 FALSE
+TSPC_GAP_4_2 FALSE
+TSPC_GAP_4_3 FALSE
+TSPC_GAP_4_4 FALSE
+TSPC_GAP_4_5 FALSE
+TSPC_GAP_4_6 FALSE
+TSPC_GAP_4_7 FALSE
+TSPC_GAP_5_1 TRUE
+TSPC_GAP_5_2 TRUE
+TSPC_GAP_5_3 TRUE
+TSPC_GAP_5_4 TRUE
+TSPC_GAP_6_1 TRUE
+TSPC_GAP_6_2 TRUE
+TSPC_GAP_7_1 TRUE
+TSPC_GAP_7_2 TRUE
+TSPC_GAP_7_3 FALSE
+TSPC_GAP_8_1 TRUE
+TSPC_GAP_8_2 TRUE
+TSPC_GAP_8_3 TRUE
+TSPC_GAP_8_4 TRUE
+TSPC_GAP_8A_1 TRUE
+TSPC_GAP_8A_2 TRUE
+TSPC_GAP_8A_3 TRUE
+TSPC_GAP_8A_4 TRUE
+TSPC_GAP_8A_5 TRUE
+TSPC_GAP_8A_6 FALSE
+TSPC_GAP_8A_7 TRUE
+TSPC_GAP_8A_8 TRUE
+TSPC_GAP_8A_9 TRUE
+TSPC_GAP_8A_10 TRUE
+TSPC_GAP_8A_11 TRUE
+TSPC_GAP_8A_12 TRUE
+TSPC_GAP_8A_13 TRUE
+TSPC_GAP_8A_14 TRUE
+TSPC_GAP_8A_15 TRUE
+TSPC_GAP_8A_16 TRUE
+TSPC_GAP_8A_17 TRUE
+TSPC_GAP_9_1 TRUE
+TSPC_GAP_10_1 TRUE
+TSPC_GAP_10_2 FALSE
+TSPC_GAP_10_3 FALSE
+TSPC_GAP_10_4 FALSE
+TSPC_GAP_10_5 FALSE
+TSPC_GAP_11_1 TRUE
+TSPC_GAP_11_2 TRUE
+TSPC_GAP_11_3 TRUE
+TSPC_GAP_11a_1 FALSE
+TSPC_GAP_11a_2 FALSE
+TSPC_GAP_11b_1 FALSE
+TSPC_GAP_11b_2 FALSE
+TSPC_GAP_11b_3 FALSE
+TSPC_GAP_11b_4 FALSE
+TSPC_GAP_12_1 TRUE
+TSPC_GAP_12_2 TRUE
+TSPC_GAP_13_1 TRUE
+TSPC_GAP_13_2 TRUE
+TSPC_GAP_14_1 TRUE
+TSPC_GAP_14_2 TRUE
+TSPC_GAP_15_1 TRUE
+TSPC_GAP_16_1 TRUE
+TSPC_GAP_16_2 FALSE
+TSPC_GAP_16_3 FALSE
+TSPC_GAP_16_4 FALSE
+TSPC_GAP_17_1 TRUE
+TSPC_GAP_17_2 TRUE
+TSPC_GAP_17_3 TRUE
+TSPC_GAP_17_4 TRUE
+TSPC_GAP_17a_1 FALSE
+TSPC_GAP_17a_2 FALSE
+TSPC_GAP_17b_1 FALSE
+TSPC_GAP_17b_2 FALSE
+TSPC_GAP_17b_3 FALSE
+TSPC_GAP_17b_4 FALSE
+TSPC_GAP_18_1 TRUE
+TSPC_GAP_18_2 TRUE
+TSPC_GAP_19_1 TRUE
+TSPC_GAP_19_2 TRUE
+TSPC_GAP_19_3 TRUE
+TSPC_GAP_20_1 TRUE
+TSPC_GAP_20_2 TRUE
+TSPC_GAP_20_3 TRUE
+TSPC_GAP_20_4 TRUE
+TSPC_GAP_20_5 TRUE
+TSPC_GAP_20_6 TRUE
+TSPC_GAP_20_7 TRUE
+TSPC_GAP_20A_1 TRUE
+TSPC_GAP_20A_2 TRUE
+TSPC_GAP_20A_3 TRUE
+TSPC_GAP_20A_4 TRUE
+TSPC_GAP_20A_5 TRUE
+TSPC_GAP_20A_6 FALSE
+TSPC_GAP_20A_7 TRUE
+TSPC_GAP_20A_8 TRUE
+TSPC_GAP_20A_9 TRUE
+TSPC_GAP_20A_10 TRUE
+TSPC_GAP_20A_11 TRUE
+TSPC_GAP_20A_12 TRUE
+TSPC_GAP_20A_13 TRUE
+TSPC_GAP_20A_14 TRUE
+TSPC_GAP_20A_15 TRUE
+TSPC_GAP_20A_16 TRUE
+TSPC_GAP_20A_17 TRUE
+TSPC_GAP_21_1 TRUE
+TSPC_GAP_21_2 TRUE
+TSPC_GAP_21_3 TRUE
+TSPC_GAP_21_4 TRUE
+TSPC_GAP_21_5 TRUE
+TSPC_GAP_21_6 TRUE
+TSPC_GAP_21_7 TRUE
+TSPC_GAP_21_8 TRUE
+TSPC_GAP_21_9 TRUE
+TSPC_GAP_21_10 TRUE
+TSPC_GAP_21_11 TRUE
+TSPC_GAP_21_12 FALSE
+TSPC_GAP_22_1 TRUE
+TSPC_GAP_22_2 TRUE
+TSPC_GAP_22_3 TRUE
+TSPC_GAP_22_4 TRUE
+TSPC_GAP_23_1 TRUE
+TSPC_GAP_23_2 FALSE
+TSPC_GAP_23_3 TRUE
+TSPC_GAP_23_4 TRUE
+TSPC_GAP_23_5 TRUE
+TSPC_GAP_23_6 FALSE
+TSPC_GAP_23_7 FALSE
+TSPC_GAP_24_1 TRUE
+TSPC_GAP_24_2 TRUE
+TSPC_GAP_24_3 TRUE
+TSPC_GAP_24_4 TRUE
+TSPC_GAP_25_1 TRUE
+TSPC_GAP_25_2 TRUE
+TSPC_GAP_25_3 TRUE
+TSPC_GAP_25_4 TRUE
+TSPC_GAP_25_5 TRUE
+TSPC_GAP_25_6 TRUE
+TSPC_GAP_25_7 TRUE
+TSPC_GAP_25_8 TRUE
+TSPC_GAP_25_9 TRUE
+TSPC_GAP_25_10 TRUE
+TSPC_GAP_25_11 FALSE
+TSPC_GAP_25_12 FALSE
+TSPC_GAP_25_13 TRUE
+TSPC_GAP_26_1 TRUE
+TSPC_GAP_26_2 TRUE
+TSPC_GAP_26_3 TRUE
+TSPC_GAP_26_4 TRUE
+TSPC_GAP_27_1 TRUE
+TSPC_GAP_27_2 TRUE
+TSPC_GAP_27_5 TRUE
+TSPC_GAP_27_6 TRUE
+TSPC_GAP_27_7 FALSE
+TSPC_GAP_27_9 TRUE
+TSPC_GAP_27a_1 FALSE
+TSPC_GAP_27a_2 FALSE
+TSPC_GAP_27a_3 FALSE
+TSPC_GAP_28_1 TRUE
+TSPC_GAP_28_2 TRUE
+TSPC_GAP_29_1 TRUE
+TSPC_GAP_29_2 TRUE
+TSPC_GAP_29_3 TRUE
+TSPC_GAP_29_4 TRUE
+TSPC_GAP_30_1 TRUE
+TSPC_GAP_30_2 TRUE
+TSPC_GAP_31_1 TRUE
+TSPC_GAP_31_2 TRUE
+TSPC_GAP_31_3 TRUE
+TSPC_GAP_31_4 TRUE
+TSPC_GAP_31_5 TRUE
+TSPC_GAP_31_6 TRUE
+TSPC_GAP_31_7 FALSE
+TSPC_GAP_31_8 TRUE
+TSPC_GAP_31_9 TRUE
+TSPC_GAP_31_10 TRUE
+TSPC_GAP_31_11 TRUE
+TSPC_GAP_31_12 FALSE
+TSPC_GAP_32_1 TRUE
+TSPC_GAP_32_2 TRUE
+TSPC_GAP_32_3 TRUE
+TSPC_GAP_33_1 TRUE
+TSPC_GAP_33_2 TRUE
+TSPC_GAP_33_3 FALSE
+TSPC_GAP_33_4 TRUE
+TSPC_GAP_33_5 TRUE
+TSPC_GAP_33_6 TRUE
+TSPC_GAP_33_7 FALSE
+TSPC_GAP_33_8 FALSE
+TSPC_GAP_34_1 TRUE
+TSPC_GAP_34_2 TRUE
+TSPC_GAP_34_3 TRUE
+TSPC_GAP_35_1 TRUE
+TSPC_GAP_35_2 TRUE
+TSPC_GAP_35_3 TRUE
+TSPC_GAP_35_4 FALSE
+TSPC_GAP_35_5 TRUE
+TSPC_GAP_35_6 TRUE
+TSPC_GAP_35_7 TRUE
+TSPC_GAP_35_8 TRUE
+TSPC_GAP_35_9 TRUE
+TSPC_GAP_35_10 TRUE
+TSPC_GAP_35_11 FALSE
+TSPC_GAP_35_12 FALSE
+TSPC_GAP_35_13 TRUE
+TSPC_GAP_36_1 TRUE
+TSPC_GAP_36_2 TRUE
+TSPC_GAP_36_3 TRUE
+TSPC_GAP_36_5 TRUE
+TSPC_GAP_37_1 TRUE
+TSPC_GAP_37_2 TRUE
+TSPC_GAP_37_3 TRUE
+TSPC_GAP_37a_1 FALSE
+TSPC_GAP_37a_2 FALSE
+TSPC_GAP_37a_3 FALSE
+TSPC_GAP_38_1 FALSE
+TSPC_GAP_38_2 FALSE
+TSPC_GAP_38_3 FALSE
+TSPC_GAP_38_4 FALSE
+TSPC_GAP_41_1 FALSE
+TSPC_GAP_41_2a FALSE
+TSPC_GAP_41_2b FALSE
+TSPC_GAP_43_1 FALSE
+TSPC_GAP_43_2a FALSE
+TSPC_GAP_43_2b FALSE
+TSPC_GAP_44_1 FALSE
+TSPC_GAP_44_2 FALSE
+TSPC_GAP_45_1 FALSE
+TSPC_GAP_45_2 FALSE
+TSPC_GATT_1_1 TRUE
+TSPC_GATT_1_2 TRUE
+TSPC_SM_1_1 TRUE
+TSPC_SM_1_2 TRUE
+TSPC_SM_2_4 TRUE
+TSPC_LL_2_5 FALSE
+TSPC_SUMICS_31_10 FALSE
+TSPC_SUMICS_31_10a FALSE
+TSPC_ALL FALSE
+
+IXIT VALUES:
+
+TSPX_bd_addr_iut FC80AD20A736
+TSPX_bd_addr_PTS C000DEADBEEF
+TSPX_broadcaster_class_of_device 100104
+TSPX_observer_class_of_device 100104
+TSPX_peripheral_class_of_device 100104
+TSPX_central_class_of_device 100104
+TSPX_security_enabled FALSE
+TSPX_delete_link_key TRUE
+TSPX_iut_setup_att_over_br_edr FALSE
+TSPX_mtu_size 23
+TSPX_delete_ltk FALSE
+TSPX_pin_code 0000
+TSPX_time_guard 300000
+TSPX_use_implicit_send TRUE
+TSPX_use_dynamic_pin FALSE
+TSPX_secure_simple_pairing_pass_key_confirmation FALSE
+TSPX_using_public_device_address FALSE
+TSPX_using_random_device_address TRUE
+TSPX_lim_adv_timeout 30720
+TSPX_gen_disc_adv_min 30720
+TSPX_lim_disc_scan_min 10240
+TSPX_gen_disc_scan_min 10240
+TSPX_database_file Database-GAP.sig
+TSPX_iut_rx_mtu 23
+TSPX_iut_private_address_interval 30000
+TSPX_iut_privacy_enabled FALSE
+TSPX_psm 1001
+TSPX_psm_2 2001
+TSPX_iut_valid_connection_interval_min 00C8
+TSPX_iut_valid_connection_interval_max 03C0
+TSPX_iut_valid_connection_latency 0006
+TSPX_iut_valid_timeout_multiplier 0962
+TSPX_iut_connection_parameter_timeout 30000
+TSPX_iut_invalid_connection_interval_min 0000
+TSPX_iut_invalid_connection_interval_max 0000
+TSPX_iut_invalid_connection_latency 0000
+TSPX_iut_invalid_conn_update_supervision_timeout 0800
+TSPX_LE_scan_interval 0010
+TSPX_LE_scan_window 0010
+TSPX_con_interval_min 0032
+TSPX_con_interval_max 0046
+TSPX_con_latency 0001
+TSPX_supervision_timeout 07D0
+TSPX_minimum_ce_length 0000
+TSPX_maximum_ce_length 0000
+TSPX_conn_update_int_min 0032
+TSPX_conn_update_int_max 0046
+TSPX_conn_update_peripheral_latency 0001
+TSPX_conn_update_supervision_timeout 01F4
+TSPX_pairing_before_service_request FALSE
+TSPX_iut_mandates_mitm FALSE
+TSPX_encryption_before_service_request FALSE
+TSPX_tester_appearance 0000
+TSPX_advertising_data 0201040E085465737465725F303845363736
+TSPX_iut_device_IRK_for_resolvable_privacy_address_generation_procedure 00000000000000000000000000000000
+TSPX_tester_device_IRK_for_resolvable_privacy_address_generation_procedure 0123456789ABCDEF0123456789ABCDEF
+TSPX_iut_device_name_in_adv_packet_for_random_address Tester_08E676
+TSPX_Tgap_104 60000
+TSPX_URI 176769746875622E636F6D2F696E74656C2F6175746F2D707473
+TSPX_periodic_advertising_data 0201040503001801180D095054532D4741502D3036423803190000
+TSPX_Min_Encryption_Key_Size 07
+TSPX_broadcast_code 8ED03323D1205E2D58191BF6285C3182
+TSPX_gap_iut_role Peripheral
+</PicsPixit>
+  <LOG>
+
++125 ms
+Message:                 MindTree Stack Version - 016.006.000
+
+
+
++406 ms
+Preliminary Verdict:     PASS
+
+
+
++406 ms
+Initialize Test Case:    Build date: May  5 2021, 16:53:56
+
+
+
++406 ms
+Start Test Case:         GAP/DISC/LIMM/BV-04-C
+
+
+
++406 ms
+Message:                   PTS Log started on Tuesday, August 31, 2021, 11:30:01
+
+
+
++406 ms
+Message:                   PTS: v8.0.3 Build 2
+
+
+
++406 ms
+Message:                   OS: Microsoft Windows NT 10.0.19043.0
+
+
+
++406 ms
+Message:                   OS Name: Microsoft Windows 10 Pro
+
+
+
++4437 ms
+Preliminary Verdict:     PASS
+
+
+
++4437 ms
+Send Event:              HCI!HCI_RESET
+
+
++4562 ms
+Receive Event:           HCI?HCI_RESET_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4562 ms
+Preliminary Verdict:     PASS
+
+
+
++4562 ms
+Send Event:              HCI!HCI_SET_EVENT_MASK{
+                           eventMask=0x3FFFFFFFFFFFFFFF
+                         }
+
+
++4562 ms
+Receive Event:           HCI?HCI_SET_EVENT_MASK_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4562 ms
+Preliminary Verdict:     PASS
+
+
+
++4562 ms
+Send Event:              HCI!HCI_READ_LOCAL_VERSION_INFORMATION
+
+
++4562 ms
+Receive Event:           HCI?HCI_READ_LOCAL_VERSION_INFORMATION_COMPLETE_EVENT{
+                           status=HCI_OK,
+                           hciVersion=0x08,
+                           hciRevision=0x30E8,
+                           lmpVersion=0x08,
+                           manufacturerName=0x000A,
+                           lmpSubversion=0x30E8
+                         }
+
+
++4562 ms
+Preliminary Verdict:     PASS
+
+
+
++4562 ms
+Send Event:              HCI!HCI_READ_LOCAL_SUPPORTED_FEATURES
+
+
++4562 ms
+Receive Event:           HCI?HCI_READ_LOCAL_SUPPORTED_FEATURES_COMPLETE_EVENT{
+                           status=HCI_OK,
+                           lmpFeatures=0x875B1FD87E8FFFFF
+                         }
+
+
++4562 ms
+Preliminary Verdict:     PASS
+
+
+
++4562 ms
+Send Event:              HCI!HCI_READ_BD_ADDR
+
+
++4578 ms
+Receive Event:           HCI?HCI_READ_BD_ADDR_COMPLETE_EVENT{
+                           status=HCI_OK,
+                           bdAddress=0x001BDC08E676
+                         }
+
+
++4578 ms
+Preliminary Verdict:     PASS
+
+
+
++4578 ms
+Send Event:              HCI!HCI_WRITE_LE_HOST_SUPPORTED{
+                           leSupportedHost=HCI_LE_SUPPORTED_HOST_ENABLED,
+                           simultaneousLeHost=HCI_SIMULTANEOUS_LE_HOST_ENABLED
+                         }
+
+
++4578 ms
+Receive Event:           HCI?HCI_WRITE_LE_HOST_SUPPORTED_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4578 ms
+Send Event:              HCI!HCI_LE_LOCAL_SUPPORTED_FEATURES
+
+
++4578 ms
+Receive Event:           HCI?HCI_LE_READ_LOCAL_SUPPORTED_FEATURES_COMPLETE_EVENT{
+                           status=HCI_OK,
+                           leFeatures=0x000000000000001F
+                         }
+
+
++4578 ms
+Preliminary Verdict:     PASS
+
+
+
++4578 ms
+Send Event:              HCI!HCI_LE_SET_EVENT_MASK{
+                           leEventMask=0x000000000000003F
+                         }
+
+
++4578 ms
+Receive Event:           HCI?HCI_LE_SET_EVENT_MASK_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4578 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_PARAMETERS{
+                           leScanType=HCI_LE_ACTIVE_SCANNING,
+                           leScanInterval=0x001E,
+                           leScanWindow=0x001E,
+                           ownAddressType=HCI_LE_PUBLIC_DEVICE_ADDRESS,
+                           scanningFilterPolicy=HCI_LE_ACCEPT_ALL_ADVERTISING_PACKETS
+                         }
+
+
++4578 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_PARAMETERS_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4578 ms
+Preliminary Verdict:     PASS
+
+
+
++4578 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++4593 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++4953 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++5046 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++5046 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++5078 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++5078 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++5078 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++5078 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++5078 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++5156 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++5265 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++5265 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++5281 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++5281 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++5281 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++5281 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++5281 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++5359 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++5468 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++5468 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++5500 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++5500 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++5500 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++5500 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++5500 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++5687 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++5781 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++5781 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++5796 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++5796 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++5796 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++5796 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++5796 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++5890 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++6000 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++6000 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++6015 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++6015 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++6015 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++6015 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++6031 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++6109 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++6203 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++6203 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++6218 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++6218 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++6218 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++6218 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++6218 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++6312 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++6531 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++6531 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++6546 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++6546 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++6546 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++6546 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++6562 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++6625 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++6734 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++6734 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++6750 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++6750 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++6750 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++6750 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++6750 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++6843 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++6953 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++6953 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++6953 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++6953 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++6953 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++6953 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++6953 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++7156 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++7265 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++7265 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++7281 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++7281 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++7281 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++7281 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++7281 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++7359 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++7468 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++7468 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++7484 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++7484 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++7484 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++7484 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++7484 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++7671 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++7781 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++7781 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++7781 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++7781 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++7781 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++7781 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++7796 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++7875 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++7984 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++7984 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++8000 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++8000 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++8000 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++8000 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++8000 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++8093 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++8187 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++8187 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++8203 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++8203 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++8203 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++8203 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++8203 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++8296 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++8500 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++8500 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++8515 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++8515 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++8515 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++8515 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++8515 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++8515 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++8609 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++8812 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++8812 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++8828 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++8828 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++8828 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++8828 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++8828 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++9031 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++9125 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++9125 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++9156 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++9156 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++9156 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++9156 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++9156 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++9234 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++9453 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++9453 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++9468 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++9468 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++9468 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++9468 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++9484 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++9656 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++9750 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++9750 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++9781 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++9781 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++9781 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++9781 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++9781 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++9968 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++10062 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++10062 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++10078 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++10078 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++10078 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++10078 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++10078 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++10171 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++10281 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++10281 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++10296 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++10296 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++10296 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++10296 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++10296 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++10375 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++10484 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++10484 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++10500 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++10500 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++10500 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++10500 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++10500 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++10593 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++10687 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++10687 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++10703 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++10703 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++10703 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++10703 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++10718 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++10796 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++10906 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++10906 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++10921 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++10921 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++10921 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++10921 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++10921 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++11015 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++11125 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++11125 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++11125 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++11125 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++11125 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++11125 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++11140 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++11218 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++11328 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++11328 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++11343 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++11343 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++11343 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++11343 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++11343 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++11437 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++11546 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++11546 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++11546 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++11546 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++11546 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++11546 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++11546 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++11750 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++11953 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++11953 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++11968 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++11968 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++11968 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++11968 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++11968 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++11968 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++12062 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++12265 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++12265 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++12265 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++12265 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++12265 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++12265 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++12265 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++12359 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++12578 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++12578 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++12593 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++12593 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++12593 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++12593 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++12593 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++12593 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++12671 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++12890 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++12890 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++12890 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++12890 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++12890 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++12890 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++12890 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++12906 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++13093 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++13203 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++13203 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++13218 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++13218 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++13218 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++13218 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++13218 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++13296 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++13406 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++13406 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++13406 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++13406 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++13406 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++13406 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++13406 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++13625 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++13718 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++13718 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++13734 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++13734 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++13734 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++13734 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++13734 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++13828 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++14031 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++14031 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++14031 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++14031 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++14031 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++14031 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++14031 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++14031 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++14140 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++14343 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++14343 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++14359 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++14359 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++14359 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++14359 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++14359 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++14359 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++14437 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++14546 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++14546 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++14562 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++14562 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++14562 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++14562 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++14562 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++14656 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++14765 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++14765 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++14765 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++14765 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++14765 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++14765 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++14781 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++14859 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++14968 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++14968 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++14984 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++14984 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++14984 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++14984 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++14984 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++15078 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++15296 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++15296 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++15296 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++15296 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++15296 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++15296 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++15296 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++15296 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++15390 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++15500 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++15500 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++15515 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++15515 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++15515 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++15515 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++15515 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++15703 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++15812 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++15812 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++15828 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++15828 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++15828 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++15828 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++15828 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++15921 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++16031 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++16031 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++16046 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++16046 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++16046 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++16046 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++16046 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++16234 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++16546 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++16546 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++16546 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++16546 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++16546 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++16546 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++16546 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++16546 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++16640 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++16750 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++16750 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++16765 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++16765 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++16765 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++16765 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++16765 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++16859 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++16968 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++16968 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++16968 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++16968 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++16968 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++16968 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++16968 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++17062 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++17171 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++17171 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++17187 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++17187 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++17187 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++17187 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++17187 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++17265 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++17484 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++17484 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++17484 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++17484 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++17484 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++17484 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++17484 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++17578 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++17687 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++17687 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++17687 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++17687 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++17687 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++17687 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++17687 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++17781 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++17890 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++17890 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++17906 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++17906 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++17906 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++17906 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++17906 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++18000 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++18109 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++18109 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++18109 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++18109 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++18109 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++18109 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++18109 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++18203 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++18312 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++18312 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++18328 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++18328 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++18328 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++18328 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++18328 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++18406 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++18515 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++18515 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++18531 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++18531 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++18531 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++18531 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++18531 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++18625 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++18734 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++18734 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++18734 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++18734 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++18734 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++18734 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++18750 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++18828 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++18937 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++18937 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++18953 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++18953 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++18953 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++18953 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++18953 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++19031 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++19140 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++19140 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++19156 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++19156 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++19156 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++19156 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++19156 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++19250 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++19359 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++19359 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++19375 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++19375 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++19375 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++19375 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++19375 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++19468 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++19578 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++19578 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++19578 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++19578 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++19578 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++19578 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++19578 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++19671 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++19781 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++19781 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++19796 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++19796 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++19796 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++19796 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++19796 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++19890 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++20000 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++20000 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++20015 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++20015 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++20015 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++20015 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++20015 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++20093 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++20296 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++20296 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++20328 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++20328 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++20328 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++20328 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++20328 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++20328 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++20406 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++20515 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++20515 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++20531 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++20531 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++20531 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++20531 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++20531 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++20609 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++20718 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++20718 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++20718 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++20718 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++20718 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++20718 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++20718 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++20921 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++21031 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++21031 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++21046 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++21046 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++21046 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++21046 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++21046 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++21140 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++21234 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++21234 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++21250 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++21250 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++21250 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++21250 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++21250 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++21343 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++21453 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++21453 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++21453 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++21453 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++21453 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++21453 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++21468 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++21546 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++21656 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++21656 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++21671 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++21671 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++21671 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++21671 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++21671 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++21750 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++21859 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++21859 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++21875 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++21875 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++21875 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++21875 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++21890 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++22062 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++22171 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++22171 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++22187 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++22187 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++22187 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++22187 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++22187 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++22281 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++22390 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++22390 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++22390 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++22390 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++22390 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++22390 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++22390 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++22484 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++22703 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++22703 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++22718 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++22718 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++22718 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++22718 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++22718 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++22718 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++22796 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++22906 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++22906 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++22921 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++22921 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++22921 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++22921 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++22921 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++23000 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++23109 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++23109 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++23125 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++23125 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++23125 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++23125 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++23140 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++23312 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++23531 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++23531 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++23531 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++23531 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++23531 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++23531 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++23531 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++23531 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++23640 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++23734 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++23734 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++23750 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++23750 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++23750 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++23750 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++23765 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++23843 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++23953 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++23953 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++23968 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++23968 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++23968 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++23968 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++23968 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++24046 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++24265 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++24265 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++24265 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++24265 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++24265 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++24265 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++24265 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++24265 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++24359 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++24562 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++24562 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++24593 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++24593 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++24593 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++24593 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++24593 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++24593 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++24671 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++24968 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++24968 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++24984 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++24984 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++24984 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++24984 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++24984 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++24984 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++25078 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++25187 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++25187 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++25203 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++25203 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++25203 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++25203 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++25203 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++25406 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++25609 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++25609 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++25625 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++25625 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++25625 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++25625 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++25625 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++25640 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++25703 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++25921 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++25921 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++25937 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++25937 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++25937 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++25937 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++25937 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++25937 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++26031 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++26125 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++26125 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++26140 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++26140 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++26140 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++26140 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++26140 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++26234 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++26343 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++26343 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++26359 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++26359 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++26359 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++26359 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++26359 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++26453 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++26546 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++26546 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++26562 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++26562 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++26562 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++26562 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++26562 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++26656 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++26859 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++26859 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++26875 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++26875 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++26875 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++26875 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++26875 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++26890 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++26968 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++27078 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++27078 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++27093 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++27093 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++27093 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++27093 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++27093 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++27187 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++27296 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++27296 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++27296 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++27296 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++27296 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++27296 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++27296 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++27593 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++27703 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++27703 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++27718 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++27718 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++27718 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++27718 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++27718 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++27812 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++27921 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++27921 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++27921 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++27921 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++27921 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++27921 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++27921 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++28015 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++28109 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++28125 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++28125 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++28125 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++28125 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++28125 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++28140 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++28218 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++28328 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++28328 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++28343 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++28343 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++28343 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++28343 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++28343 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++28437 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++28656 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++28656 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++28687 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++28687 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++28687 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++28687 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++28687 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++28765 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++28875 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++28875 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++28890 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++28890 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++28890 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++28890 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++28890 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++29078 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++29171 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++29171 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++29203 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++29203 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++29203 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++29203 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++29203 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++29281 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++29390 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++29390 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++29406 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++29406 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++29406 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++29406 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++29406 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++29500 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++29593 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++29593 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++29609 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++29609 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++29609 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++29609 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++29609 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++29687 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++29796 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++29796 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++29828 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++29828 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++29828 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++29828 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++29828 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++29906 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++30125 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++30125 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++30140 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++30140 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++30140 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++30140 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++30140 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++30234 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++30343 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++30343 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++30359 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++30359 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++30359 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++30359 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++30359 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++30546 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++30656 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++30656 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++30671 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++30671 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++30671 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++30671 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++30671 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++30765 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++30859 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++30859 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++30875 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++30875 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++30875 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++30875 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++30890 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++31078 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++31296 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++31296 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++31296 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++31296 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++31296 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++31296 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++31296 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++31390 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++31609 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++31609 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++31625 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++31625 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++31625 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++31625 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++31625 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++31625 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++31718 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++31828 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++31828 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++31828 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++31828 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++31828 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++31828 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++31828 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++31921 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++32031 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++32031 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++32031 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++32031 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++32031 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++32031 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++32046 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++32234 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++32343 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++32343 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++32359 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++32359 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++32359 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++32359 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++32359 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++32453 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++32562 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++32562 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++32562 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++32562 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++32562 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++32562 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++32562 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++32671 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++32875 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++32875 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++32890 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++32890 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++32890 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++32890 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++32890 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++32890 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++33093 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++33203 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++33203 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++33203 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++33203 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++33203 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++33203 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++33218 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++33296 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++33406 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++33406 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++33421 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++33421 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++33421 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++33421 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++33421 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++33515 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++33609 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++33609 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++33625 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++33625 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++33625 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++33625 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++33625 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++33718 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++33828 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++33828 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++33828 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++33828 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++33828 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++33828 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++33843 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++33921 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++34031 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++34031 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++34046 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++34046 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++34046 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++34046 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++34046 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++34140 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++34343 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++34343 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++34359 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++34359 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++34359 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++34359 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++34359 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++34375 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++34453 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++34671 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++34671 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++34687 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++34687 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++34687 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++34687 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++34687 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++34781 ms
+Verdict Description:     Found an address(=0xFC80AD20A736). Type=1. This address will be used for searching next advertising packets.
+
+
+
++34890 ms
+Verdict Description:     Found 4 Advertising packets. Stop reading
+
+
+
++34890 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++34890 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++34890 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++34890 ms
+Verdict Description:     IUT sent type 5 advertising report event with FGLAGS AD type set to 0x05
+
+
+
++34890 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_ENABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++34906 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++65687 ms
+Send Event:              HCI!HCI_LE_SET_SCAN_ENABLE{
+                           leScanEnable=HCI_LE_SCAN_DISABLE,
+                           filterDuplicates=HCI_LE_DUPLICATE_FILTERING_DISABLE
+                         }
+
+
++65703 ms
+Receive Event:           HCI?HCI_LE_SET_SCAN_ENABLE_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++65703 ms
+Verdict Description:     PTS cannot find any address in advertising reports that matches ixit.
+
+
+
++65703 ms
+Inconclusive:            Non-passing verdict returned from APICOM, see log for more details.
+
+
+
++65703 ms
+Verdict Description:     Non-passing verdict returned from APICOM, see log for more details.
+
+
+
++65703 ms
+Send Event:              HCI!HCI_RESET
+
+
++65828 ms
+Receive Event:           HCI?HCI_RESET_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++66953 ms
+Receive Event:           HCI?HCI_RESET_COMPLETE_EVENT{
+                           status=HCI_OK
+                         }
+
+
++68359 ms
+Final Verdict:           INCONC
+
+
+
++68359 ms
+Encrypted Verdict:       A1#ZWY4MzQ5MDg3MmQwNTIxOGQzMzQ5YjY2ODA5M2MzNjQ5ZDY4NmY0Yjc2MzIzM2VkNTUyNTFhNGU4Mjg1MjI0NA==#7iHjZqu8kGyIfax8jrsoVuxGVogdM2WINHvuWd/o3Vd70hlgMNiqbFAIRMiSrun4
+
+
+
++68359 ms
+Test Case Ended:         GAP/DISC/LIMM/BV-04-C
+
+</LOG>
+  <SUMMARY>Test case : GAP/DISC/LIMM/BV-04-C started
+Final Verdict:INCONC
+GAP/DISC/LIMM/BV-04-C finished
+</SUMMARY>
+</ARCHIVE>
