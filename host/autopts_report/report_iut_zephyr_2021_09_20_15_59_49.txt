@@ -1,2 +1,0 @@
-v2.7.0-rc2-24-ga9a01d4cb7
-DIS     DIS/SR/DEC/BV-04-C              PASS
