@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ARCHIVE>
   <VERSION>2.0</VERSION>
-  <PicsPixit>Test Case Started: SM v. 8.1.2.5, SM/CEN/JW/BV-05-C started on Friday, October 22, 2021, 21:45:07
+  <PicsPixit>Test Case Started: SM v. 8.1.2.5, SM/CEN/JW/BV-05-C started on Friday, October 22, 2021, 22:08:12
 
 ICS VALUES:
 
@@ -54,37 +54,37 @@ Receive Event:           HCI?HCI_RESET_COMPLETE_EVENT{
                          }
 
 
-+1515 ms
++1532 ms
 Message:                 MindTree Stack Version - 016.007.000
 
 
 
-+1531 ms
++1532 ms
 Initialize Test Case:    Build date: Oct  7 2021, 10:52:33
 
 
 
-+1531 ms
++1547 ms
 Start Test Case:         SM/CEN/JW/BV-05-C
 
 
 
-+1531 ms
-Message:                   PTS Log started on Friday, October 22, 2021, 21:45:20
++1547 ms
+Message:                   PTS Log started on Friday, October 22, 2021, 22:08:21
 
 
 
-+1531 ms
++1547 ms
 Message:                   PTS: v8.1.2 Build 5
 
 
 
-+1531 ms
++1547 ms
 Message:                   OS: Microsoft Windows NT 10.0.19043.0
 
 
 
-+1531 ms
++1547 ms
 Message:                   OS Name: Microsoft Windows 10 Pro
 
 
@@ -94,43 +94,43 @@ Preliminary Verdict:     PASS
 
 
 
-+2593 ms
++2578 ms
 Send Event:              HCI!HCI_RESET
 
 
-+2593 ms
++2578 ms
 Receive Event:           HCI?HCI_RESET_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+2593 ms
++2578 ms
 Preliminary Verdict:     PASS
 
 
 
-+2593 ms
++2578 ms
 Send Event:              HCI!HCI_SET_EVENT_MASK{
                            eventMask=0x3FFFFFFFFFFFFFFF
                          }
 
 
-+2593 ms
++2578 ms
 Receive Event:           HCI?HCI_SET_EVENT_MASK_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+2593 ms
++2578 ms
 Preliminary Verdict:     PASS
 
 
 
-+2593 ms
++2578 ms
 Send Event:              HCI!HCI_READ_LOCAL_VERSION_INFORMATION
 
 
-+2593 ms
++2578 ms
 Receive Event:           HCI?HCI_READ_LOCAL_VERSION_INFORMATION_COMPLETE_EVENT{
                            status=HCI_OK,
                            hciVersion=0x0B,
@@ -141,131 +141,131 @@ Receive Event:           HCI?HCI_READ_LOCAL_VERSION_INFORMATION_COMPLETE_EVENT{
                          }
 
 
-+2593 ms
++2578 ms
 Preliminary Verdict:     PASS
 
 
 
-+2593 ms
++2578 ms
 Send Event:              HCI!HCI_READ_LOCAL_SUPPORTED_FEATURES
 
 
-+2593 ms
++2578 ms
 Receive Event:           HCI?HCI_READ_LOCAL_SUPPORTED_FEATURES_COMPLETE_EVENT{
                            status=HCI_OK,
                            lmpFeatures=0x0000006000000000
                          }
 
 
-+2593 ms
++2578 ms
 Preliminary Verdict:     PASS
 
 
 
-+2593 ms
++2578 ms
 Send Event:              HCI!HCI_READ_BD_ADDR
 
 
-+2593 ms
++2578 ms
 Receive Event:           HCI?HCI_READ_BD_ADDR_COMPLETE_EVENT{
                            status=HCI_OK,
                            bdAddress=0xCC01926015B9
                          }
 
 
-+2593 ms
++2578 ms
 Preliminary Verdict:     PASS
 
 
 
-+2593 ms
++2578 ms
 Send Event:              HCI!HCI_LE_LOCAL_SUPPORTED_FEATURES
 
 
-+2593 ms
++2578 ms
 Receive Event:           HCI?HCI_LE_READ_LOCAL_SUPPORTED_FEATURES_COMPLETE_EVENT{
                            status=HCI_OK,
                            leFeatures=0x0000000EBF017FFF
                          }
 
 
-+2593 ms
++2578 ms
 Preliminary Verdict:     PASS
 
 
 
-+2593 ms
++2578 ms
 Send Event:              HCI!HCI_LE_SET_EVENT_MASK{
                            leEventMask=0x000000067FFFFFFF
                          }
 
 
-+2593 ms
++2578 ms
 Receive Event:           HCI?HCI_LE_SET_EVENT_MASK_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+2593 ms
++2578 ms
 Send Event:              HCI!HCI_LE_SET_HOST_FEATURE{
                            bit_number=0x20,
                            bit_value=0x01
                          }
 
 
-+2609 ms
++2578 ms
 Receive Event:           HCI?HCI_LE_SET_HOST_FEATURE_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+2609 ms
++2578 ms
 Preliminary Verdict:     PASS
 
 
 
-+2609 ms
++2578 ms
 Send Event:              HCI!HCI_LE_ADD_DEVICE_TO_FILTER_ACCEPT_LIST{
                            addressType=HCI_LE_PUBLIC_DEVICE_ADDRESS,
                            address=0xFC80AD20A736
                          }
 
 
-+2609 ms
++2578 ms
 Receive Event:           HCI?HCI_LE_ADD_DEVICE_TO_FILTER_ACCEPT_LIST_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+2609 ms
++2578 ms
 Preliminary Verdict:     PASS
 
 
 
-+2609 ms
++2578 ms
 Send Event:              HCI!HCI_LE_ADD_DEVICE_TO_FILTER_ACCEPT_LIST{
                            addressType=HCI_LE_RANDOM_DEVICE_ADDRESS,
                            address=0xFC80AD20A736
                          }
 
 
-+2609 ms
++2578 ms
 Receive Event:           HCI?HCI_LE_ADD_DEVICE_TO_FILTER_ACCEPT_LIST_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+2609 ms
++2578 ms
 Preliminary Verdict:     PASS
 
 
 
-+2609 ms
++2578 ms
 Preliminary Verdict:     PASS
 
 
 
-+2609 ms
++2578 ms
 Send Event:              HCI!HCI_LE_SET_ADVERTISING_PARAMETERS{
                            advertisingIntervalMin=0x0200,
                            advertisingIntervalMax=0x0300,
@@ -278,76 +278,76 @@ Send Event:              HCI!HCI_LE_SET_ADVERTISING_PARAMETERS{
                          }
 
 
-+2609 ms
++2578 ms
 Receive Event:           HCI?HCI_LE_SET_ADVERTISING_PARAMETERS_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+2609 ms
++2578 ms
 Preliminary Verdict:     PASS
 
 
 
-+2609 ms
++2578 ms
 Send Event:              HCI!HCI_LE_SET_ADVERTISING_DATA{
                            advertisingDataLength=0x14,
                            advertisingData=0x020102030200180C095054532D534D2D42393135
                          }
 
 
-+2609 ms
++2578 ms
 Receive Event:           HCI?HCI_LE_SET_ADVERTISING_DATA_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+2609 ms
++2578 ms
 Preliminary Verdict:     PASS
 
 
 
-+2609 ms
++2578 ms
 Send Event:              HCI!HCI_LE_SET_SCAN_RESPONSE_DATA{
                            scanResponseDataLength=0x04,
                            scanResponseData=0x03190000
                          }
 
 
-+2609 ms
++2578 ms
 Receive Event:           HCI?HCI_LE_SET_SCAN_RESPONSE_DATA_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+2609 ms
++2578 ms
 Preliminary Verdict:     PASS
 
 
 
-+7484 ms
++3078 ms
 Send Event:              HCI!HCI_LE_SET_ADVERTISE_ENABLE{
                            advertisingEnable=HCI_LE_ADVERTISING_ENABLE
                          }
 
 
-+7484 ms
++3078 ms
 Receive Event:           HCI?HCI_LE_SET_ADVERTISE_ENABLE_COMMAND_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+7484 ms
++3078 ms
 Preliminary Verdict:     PASS
 
 
 
-+7484 ms
++3078 ms
 Preliminary Verdict:     PASS
 
 
 
-+7812 ms
++3407 ms
 Receive Event:           ATT?ATT_CONNECT_IND{
                            bdAddr=0xFC80AD20A736,
                            peerAddrType=HCI_LE_RANDOM_DEVICE_ADDRESS,
@@ -356,7 +356,7 @@ Receive Event:           ATT?ATT_CONNECT_IND{
                          }
 
 
-+7812 ms
++3407 ms
 Receive Event:           HCI?HCI_LE_ENHANCED_CONNECTION_COMPLETE_EVENT{
                            status=HCI_OK,
                            conn_handle=0x0000,
@@ -372,14 +372,14 @@ Receive Event:           HCI?HCI_LE_ENHANCED_CONNECTION_COMPLETE_EVENT{
                          }
 
 
-+7812 ms
++3407 ms
 Receive Event:           HCI?HCI_LE_CHANNEL_SELECTION_ALGORITHM_EVENT{
                            conn_handle=0x0000,
                            used_ch_algorithm=0x01
                          }
 
 
-+7812 ms
++3407 ms
 Send Event:              HCI!GET_CONNECTION_HANDLE{
                            addr=0xFC80AD20A736,
                            addr_type=0x01,
@@ -387,7 +387,7 @@ Send Event:              HCI!GET_CONNECTION_HANDLE{
                          }
 
 
-+7812 ms
++3407 ms
 Send Event:              HCI!GET_CONNECTION_HANDLE{
                            addr=0xFC80AD20A736,
                            addr_type=0x01,
@@ -395,12 +395,12 @@ Send Event:              HCI!GET_CONNECTION_HANDLE{
                          }
 
 
-+7812 ms
++3407 ms
 Preliminary Verdict:     PASS
 
 
 
-+7812 ms
++3407 ms
 Send Event:              HCI!GET_CONNECTION_HANDLE{
                            addr=0xFC80AD20A736,
                            addr_type=0x01,
@@ -408,22 +408,22 @@ Send Event:              HCI!GET_CONNECTION_HANDLE{
                          }
 
 
-+7812 ms
++3407 ms
 Verdict Description:     Connection established successfully.
 
 
 
-+7812 ms
++3407 ms
 Pass:                    IUT successfully initiated connection.
 
 
 
-+7812 ms
++3407 ms
 Verdict Description:     IUT successfully initiated connection.
 
 
 
-+8015 ms
++3610 ms
 Receive Event:           L2CAP?L2CAP_FIXED_CH_DATA_READ_IND{
                            peerAddr=0xFC80AD20A736,
                            peerAddrType=HCI_LE_RANDOM_DEVICE_ADDRESS,
@@ -432,7 +432,7 @@ Receive Event:           L2CAP?L2CAP_FIXED_CH_DATA_READ_IND{
                          }
 
 
-+8015 ms
++3610 ms
 Send Event:              L2CAP!L2CAP_LE_FIXED_CH_DATA_SEND_REQ{
                            handle=12,
                            length=0x0002,
@@ -440,20 +440,20 @@ Send Event:              L2CAP!L2CAP_LE_FIXED_CH_DATA_SEND_REQ{
                          }
 
 
-+8015 ms
++3610 ms
 Receive Event:           L2CAP?L2CAP_FIXED_CH_DATA_TX_ECHO_IND{
                            length=2,
                            data=0503
                          }
 
 
-+8062 ms
++3703 ms
 Receive Event:           ATT?ATT_DISCONNECT_IND{
                            lcid=0x1205
                          }
 
 
-+8062 ms
++3703 ms
 Receive Event:           HCI?HCI_LE_DISCONNECTION_COMPLETE_EVENT{
                            status=HCI_OK,
                            connectionHandle=0x0000,
@@ -461,54 +461,54 @@ Receive Event:           HCI?HCI_LE_DISCONNECTION_COMPLETE_EVENT{
                          }
 
 
-+8062 ms
++3703 ms
 Preliminary Verdict:     PASS
 
 
 
-+8062 ms
++3703 ms
 Verdict Description:     Received HCI disconnection event. Handle = 0x0000
 
 
 
-+8062 ms
++3703 ms
 Verdict Description:     Connection terminated successfully.
 
 
 
-+8062 ms
++3703 ms
 Pass:                    IUT successfully initiated disconnection.
 
 
 
-+8062 ms
++3703 ms
 Verdict Description:     IUT successfully initiated disconnection.
 
 
 
-+8062 ms
++3703 ms
 Send Event:              HCI!HCI_LE_SET_ADVERTISE_ENABLE{
                            advertisingEnable=HCI_LE_ADVERTISING_ENABLE
                          }
 
 
-+8062 ms
++3703 ms
 Receive Event:           HCI?HCI_LE_SET_ADVERTISE_ENABLE_COMMAND_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+8062 ms
++3703 ms
 Preliminary Verdict:     PASS
 
 
 
-+8062 ms
++3703 ms
 Preliminary Verdict:     PASS
 
 
 
-+8390 ms
++4032 ms
 Receive Event:           ATT?ATT_CONNECT_IND{
                            bdAddr=0xFC80AD20A736,
                            peerAddrType=HCI_LE_RANDOM_DEVICE_ADDRESS,
@@ -517,7 +517,7 @@ Receive Event:           ATT?ATT_CONNECT_IND{
                          }
 
 
-+8390 ms
++4032 ms
 Receive Event:           HCI?HCI_LE_ENHANCED_CONNECTION_COMPLETE_EVENT{
                            status=HCI_OK,
                            conn_handle=0x0000,
@@ -533,14 +533,14 @@ Receive Event:           HCI?HCI_LE_ENHANCED_CONNECTION_COMPLETE_EVENT{
                          }
 
 
-+8390 ms
++4032 ms
 Receive Event:           HCI?HCI_LE_CHANNEL_SELECTION_ALGORITHM_EVENT{
                            conn_handle=0x0000,
                            used_ch_algorithm=0x01
                          }
 
 
-+8390 ms
++4032 ms
 Send Event:              HCI!GET_CONNECTION_HANDLE{
                            addr=0xFC80AD20A736,
                            addr_type=0x01,
@@ -548,7 +548,7 @@ Send Event:              HCI!GET_CONNECTION_HANDLE{
                          }
 
 
-+8390 ms
++4032 ms
 Send Event:              HCI!GET_CONNECTION_HANDLE{
                            addr=0xFC80AD20A736,
                            addr_type=0x01,
@@ -556,12 +556,12 @@ Send Event:              HCI!GET_CONNECTION_HANDLE{
                          }
 
 
-+8390 ms
++4032 ms
 Preliminary Verdict:     PASS
 
 
 
-+8390 ms
++4032 ms
 Send Event:              HCI!GET_CONNECTION_HANDLE{
                            addr=0xFC80AD20A736,
                            addr_type=0x01,
@@ -569,22 +569,22 @@ Send Event:              HCI!GET_CONNECTION_HANDLE{
                          }
 
 
-+8390 ms
++4032 ms
 Verdict Description:     Connection established successfully.
 
 
 
-+8390 ms
++4032 ms
 Pass:                    IUT successfully initiated connection.
 
 
 
-+8390 ms
++4032 ms
 Verdict Description:     IUT successfully initiated connection.
 
 
 
-+8593 ms
++4235 ms
 Receive Event:           L2CAP?L2CAP_FIXED_CH_DATA_READ_IND{
                            peerAddr=0xFC80AD20A736,
                            peerAddrType=HCI_LE_RANDOM_DEVICE_ADDRESS,
@@ -593,7 +593,7 @@ Receive Event:           L2CAP?L2CAP_FIXED_CH_DATA_READ_IND{
                          }
 
 
-+8593 ms
++4235 ms
 Send Event:              L2CAP!L2CAP_LE_FIXED_CH_DATA_SEND_REQ{
                            handle=12,
                            length=0x0002,
@@ -601,20 +601,20 @@ Send Event:              L2CAP!L2CAP_LE_FIXED_CH_DATA_SEND_REQ{
                          }
 
 
-+8593 ms
++4235 ms
 Receive Event:           L2CAP?L2CAP_FIXED_CH_DATA_TX_ECHO_IND{
                            length=2,
                            data=0508
                          }
 
 
-+8640 ms
++4344 ms
 Receive Event:           ATT?ATT_DISCONNECT_IND{
                            lcid=0x1205
                          }
 
 
-+8640 ms
++4344 ms
 Receive Event:           HCI?HCI_LE_DISCONNECTION_COMPLETE_EVENT{
                            status=HCI_OK,
                            connectionHandle=0x0000,
@@ -622,54 +622,54 @@ Receive Event:           HCI?HCI_LE_DISCONNECTION_COMPLETE_EVENT{
                          }
 
 
-+8640 ms
++4344 ms
 Preliminary Verdict:     PASS
 
 
 
-+8640 ms
++4344 ms
 Verdict Description:     Received HCI disconnection event. Handle = 0x0000
 
 
 
-+8640 ms
++4344 ms
 Verdict Description:     Connection terminated successfully.
 
 
 
-+8640 ms
++4344 ms
 Pass:                    IUT successfully initiated disconnection.
 
 
 
-+8640 ms
++4344 ms
 Verdict Description:     IUT successfully initiated disconnection.
 
 
 
-+8640 ms
++4344 ms
 Send Event:              HCI!HCI_LE_SET_ADVERTISE_ENABLE{
                            advertisingEnable=HCI_LE_ADVERTISING_ENABLE
                          }
 
 
-+8640 ms
++4344 ms
 Receive Event:           HCI?HCI_LE_SET_ADVERTISE_ENABLE_COMMAND_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+8640 ms
++4344 ms
 Preliminary Verdict:     PASS
 
 
 
-+8640 ms
++4344 ms
 Preliminary Verdict:     PASS
 
 
 
-+8968 ms
++4672 ms
 Receive Event:           ATT?ATT_CONNECT_IND{
                            bdAddr=0xFC80AD20A736,
                            peerAddrType=HCI_LE_RANDOM_DEVICE_ADDRESS,
@@ -678,7 +678,7 @@ Receive Event:           ATT?ATT_CONNECT_IND{
                          }
 
 
-+8968 ms
++4672 ms
 Receive Event:           HCI?HCI_LE_ENHANCED_CONNECTION_COMPLETE_EVENT{
                            status=HCI_OK,
                            conn_handle=0x0000,
@@ -694,14 +694,14 @@ Receive Event:           HCI?HCI_LE_ENHANCED_CONNECTION_COMPLETE_EVENT{
                          }
 
 
-+8968 ms
++4672 ms
 Receive Event:           HCI?HCI_LE_CHANNEL_SELECTION_ALGORITHM_EVENT{
                            conn_handle=0x0000,
                            used_ch_algorithm=0x01
                          }
 
 
-+8968 ms
++4672 ms
 Send Event:              HCI!GET_CONNECTION_HANDLE{
                            addr=0xFC80AD20A736,
                            addr_type=0x01,
@@ -709,7 +709,7 @@ Send Event:              HCI!GET_CONNECTION_HANDLE{
                          }
 
 
-+8968 ms
++4672 ms
 Send Event:              HCI!GET_CONNECTION_HANDLE{
                            addr=0xFC80AD20A736,
                            addr_type=0x01,
@@ -717,12 +717,12 @@ Send Event:              HCI!GET_CONNECTION_HANDLE{
                          }
 
 
-+8968 ms
++4672 ms
 Preliminary Verdict:     PASS
 
 
 
-+8968 ms
++4672 ms
 Send Event:              HCI!GET_CONNECTION_HANDLE{
                            addr=0xFC80AD20A736,
                            addr_type=0x01,
@@ -730,22 +730,22 @@ Send Event:              HCI!GET_CONNECTION_HANDLE{
                          }
 
 
-+8968 ms
++4672 ms
 Verdict Description:     Connection established successfully.
 
 
 
-+8968 ms
++4672 ms
 Pass:                    IUT successfully initiated connection.
 
 
 
-+8968 ms
++4672 ms
 Verdict Description:     IUT successfully initiated connection.
 
 
 
-+9078 ms
++4875 ms
 Receive Event:           L2CAP?L2CAP_FIXED_CH_DATA_READ_IND{
                            peerAddr=0xFC80AD20A736,
                            peerAddrType=HCI_LE_RANDOM_DEVICE_ADDRESS,
@@ -754,7 +754,7 @@ Receive Event:           L2CAP?L2CAP_FIXED_CH_DATA_READ_IND{
                          }
 
 
-+9078 ms
++4875 ms
 Send Event:              L2CAP!L2CAP_LE_FIXED_CH_DATA_SEND_REQ{
                            handle=12,
                            length=0x0002,
@@ -762,20 +762,20 @@ Send Event:              L2CAP!L2CAP_LE_FIXED_CH_DATA_SEND_REQ{
                          }
 
 
-+9078 ms
++4875 ms
 Receive Event:           L2CAP?L2CAP_FIXED_CH_DATA_TX_ECHO_IND{
                            length=2,
                            data=0505
                          }
 
 
-+9172 ms
++4922 ms
 Receive Event:           ATT?ATT_DISCONNECT_IND{
                            lcid=0x1205
                          }
 
 
-+9172 ms
++4922 ms
 Receive Event:           HCI?HCI_LE_DISCONNECTION_COMPLETE_EVENT{
                            status=HCI_OK,
                            connectionHandle=0x0000,
@@ -783,54 +783,54 @@ Receive Event:           HCI?HCI_LE_DISCONNECTION_COMPLETE_EVENT{
                          }
 
 
-+9172 ms
++4922 ms
 Preliminary Verdict:     PASS
 
 
 
-+9172 ms
++4922 ms
 Verdict Description:     Received HCI disconnection event. Handle = 0x0000
 
 
 
-+9172 ms
++4922 ms
 Verdict Description:     Connection terminated successfully.
 
 
 
-+9172 ms
++4922 ms
 Pass:                    IUT successfully initiated disconnection.
 
 
 
-+9172 ms
++4922 ms
 Verdict Description:     IUT successfully initiated disconnection.
 
 
 
-+9172 ms
++4922 ms
 Send Event:              HCI!HCI_LE_SET_ADVERTISE_ENABLE{
                            advertisingEnable=HCI_LE_ADVERTISING_ENABLE
                          }
 
 
-+9172 ms
++4922 ms
 Receive Event:           HCI?HCI_LE_SET_ADVERTISE_ENABLE_COMMAND_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+9172 ms
++4922 ms
 Preliminary Verdict:     PASS
 
 
 
-+9172 ms
++4922 ms
 Preliminary Verdict:     PASS
 
 
 
-+9500 ms
++5250 ms
 Receive Event:           ATT?ATT_CONNECT_IND{
                            bdAddr=0xFC80AD20A736,
                            peerAddrType=HCI_LE_RANDOM_DEVICE_ADDRESS,
@@ -839,7 +839,7 @@ Receive Event:           ATT?ATT_CONNECT_IND{
                          }
 
 
-+9500 ms
++5250 ms
 Receive Event:           HCI?HCI_LE_ENHANCED_CONNECTION_COMPLETE_EVENT{
                            status=HCI_OK,
                            conn_handle=0x0000,
@@ -855,14 +855,14 @@ Receive Event:           HCI?HCI_LE_ENHANCED_CONNECTION_COMPLETE_EVENT{
                          }
 
 
-+9500 ms
++5250 ms
 Receive Event:           HCI?HCI_LE_CHANNEL_SELECTION_ALGORITHM_EVENT{
                            conn_handle=0x0000,
                            used_ch_algorithm=0x01
                          }
 
 
-+9500 ms
++5250 ms
 Send Event:              HCI!GET_CONNECTION_HANDLE{
                            addr=0xFC80AD20A736,
                            addr_type=0x01,
@@ -870,7 +870,7 @@ Send Event:              HCI!GET_CONNECTION_HANDLE{
                          }
 
 
-+9500 ms
++5250 ms
 Send Event:              HCI!GET_CONNECTION_HANDLE{
                            addr=0xFC80AD20A736,
                            addr_type=0x01,
@@ -878,12 +878,12 @@ Send Event:              HCI!GET_CONNECTION_HANDLE{
                          }
 
 
-+9500 ms
++5250 ms
 Preliminary Verdict:     PASS
 
 
 
-+9500 ms
++5250 ms
 Send Event:              HCI!GET_CONNECTION_HANDLE{
                            addr=0xFC80AD20A736,
                            addr_type=0x01,
@@ -891,22 +891,22 @@ Send Event:              HCI!GET_CONNECTION_HANDLE{
                          }
 
 
-+9500 ms
++5250 ms
 Verdict Description:     Connection established successfully.
 
 
 
-+9500 ms
++5250 ms
 Pass:                    IUT successfully initiated connection.
 
 
 
-+9500 ms
++5250 ms
 Verdict Description:     IUT successfully initiated connection.
 
 
 
-+9703 ms
++5453 ms
 Receive Event:           L2CAP?L2CAP_FIXED_CH_DATA_READ_IND{
                            peerAddr=0xFC80AD20A736,
                            peerAddrType=HCI_LE_RANDOM_DEVICE_ADDRESS,
@@ -915,7 +915,7 @@ Receive Event:           L2CAP?L2CAP_FIXED_CH_DATA_READ_IND{
                          }
 
 
-+9703 ms
++5453 ms
 Send Event:              L2CAP!L2CAP_LE_FIXED_CH_DATA_SEND_REQ{
                            handle=12,
                            length=0x0002,
@@ -923,20 +923,20 @@ Send Event:              L2CAP!L2CAP_LE_FIXED_CH_DATA_SEND_REQ{
                          }
 
 
-+9703 ms
++5453 ms
 Receive Event:           L2CAP?L2CAP_FIXED_CH_DATA_TX_ECHO_IND{
                            length=2,
                            data=0509
                          }
 
 
-+9797 ms
++5547 ms
 Receive Event:           ATT?ATT_DISCONNECT_IND{
                            lcid=0x1205
                          }
 
 
-+9797 ms
++5547 ms
 Receive Event:           HCI?HCI_LE_DISCONNECTION_COMPLETE_EVENT{
                            status=HCI_OK,
                            connectionHandle=0x0000,
@@ -944,58 +944,58 @@ Receive Event:           HCI?HCI_LE_DISCONNECTION_COMPLETE_EVENT{
                          }
 
 
-+9797 ms
++5547 ms
 Preliminary Verdict:     PASS
 
 
 
-+9797 ms
++5547 ms
 Verdict Description:     Received HCI disconnection event. Handle = 0x0000
 
 
 
-+9797 ms
++5547 ms
 Verdict Description:     Connection terminated successfully.
 
 
 
-+9797 ms
++5547 ms
 Pass:                    IUT successfully initiated disconnection.
 
 
 
-+9797 ms
++5547 ms
 Verdict Description:     IUT successfully initiated disconnection.
 
 
 
-+10797 ms
++6563 ms
 Send Event:              HCI!HCI_RESET
 
 
-+10797 ms
++6563 ms
 Receive Event:           HCI?HCI_RESET_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+11812 ms
++7578 ms
 Receive Event:           HCI?HCI_RESET_COMPLETE_EVENT{
                            status=HCI_OK
                          }
 
 
-+13343 ms
++9110 ms
 Final Verdict:           PASS
 
 
 
-+13343 ms
-Encrypted Verdict:       A1#YjdkMmJkNjIwNjg4MmE1ZDQyZDkxODQ5ZDJhMGI2MmExOWNhOTE0MjBmMGQzMjk3ZjA2MjAzYWQ5YTdmNDFiNA==#UJ5VZQE8LoKouilNQRxUWMLBhYrj9pMNCVv5DAPt/wW4jIic2aoVCUwbesmrEMqT
++9110 ms
+Encrypted Verdict:       A1#MTQwZmYwNmNiMDE4YTYxYzFjZDc5MjBiYjBhYzlkZTk5NzVmMWMyMGEyMjJmYzY5MjJjOWRkYjAyMmU1N2Q5NA==#ono6rg0BHzJGzzbgHdx1KwtQ2FwMGrFmsNOE9hC+bWI6zKOYq+RpSNnowvwWaoAp
 
 
 
-+13343 ms
++9110 ms
 Test Case Ended:         SM/CEN/JW/BV-05-C
 
 </LOG>
