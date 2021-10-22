@@ -1,2 +1,0 @@
-v2.7.99-661-g9c7f790103
-SM      SM/CEN/JW/BV-05-C               PASS
