@@ -1,0 +1,2 @@
+zephyr=ed7d56f04ee280867d4ef344f1922231679545ed, autopts=8527f26c49bd40766080bda68be392d33f6bb6e2-dirty
+GAP     GAP/ADV/BV-01-C                 BTP ERROR
